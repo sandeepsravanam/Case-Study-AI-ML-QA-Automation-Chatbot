@@ -18,7 +18,7 @@ npm --version
 
 2️⃣ Project Setup
 Step 1: Clone the repository
-git clone https://github.com/sandeepsravanam/Case-Study-AI-ML-QA-Automation.git
+git clone https://github.com/sandeepsravanam/Case-Study-AI-ML-QA-Automation-Chatbot.git
 cd Case-Study-AI-ML-QA-Automation-Chatbot
 
 Step 2: Install dependencies
